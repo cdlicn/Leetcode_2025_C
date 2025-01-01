@@ -1,0 +1,3 @@
+"C:\software\JetBrains\CLion 2022.3.3\bin\cmake\win\x64\bin\cmake.exe" -E rm -f CMakeFiles\Leetcode_2025.dir/objects.a
+C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\ar.exe qc CMakeFiles\Leetcode_2025.dir/objects.a @CMakeFiles\Leetcode_2025.dir\objects1.rsp
+C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Leetcode_2025.dir/objects.a -Wl,--no-whole-archive -o Leetcode_2025.exe -Wl,--out-implib,libLeetcode_2025.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Leetcode_2025.dir\linklibs.rsp
