@@ -248,6 +248,30 @@ main_731.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_731.cpp.s
 .PHONY : main_731.cpp.s
 
+main_732.obj: main_732.cpp.obj
+.PHONY : main_732.obj
+
+# target to build an object file
+main_732.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_732.cpp.obj
+.PHONY : main_732.cpp.obj
+
+main_732.i: main_732.cpp.i
+.PHONY : main_732.i
+
+# target to preprocess a source file
+main_732.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_732.cpp.i
+.PHONY : main_732.cpp.i
+
+main_732.s: main_732.cpp.s
+.PHONY : main_732.s
+
+# target to generate assembly for a file
+main_732.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_732.cpp.s
+.PHONY : main_732.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -272,6 +296,9 @@ help:
 	@echo ... main_731.obj
 	@echo ... main_731.i
 	@echo ... main_731.s
+	@echo ... main_732.obj
+	@echo ... main_732.i
+	@echo ... main_732.s
 .PHONY : help
 
 
