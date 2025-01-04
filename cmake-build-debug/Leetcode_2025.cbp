@@ -100,6 +100,18 @@
 		<Unit filename="C:/project/C++/Leetcode_2025/main_732.cpp">
 			<Option target="Leetcode_2025"/>
 		</Unit>
+		<Unit filename="C:/project/C++/Leetcode_2025/test.cpp">
+			<Option target="Leetcode_2025"/>
+		</Unit>
+		<Unit filename="C:/project/C++/Leetcode_2025/双周赛147/main_01.cpp">
+			<Option target="Leetcode_2025"/>
+		</Unit>
+		<Unit filename="C:/project/C++/Leetcode_2025/双周赛147/main_02.cpp">
+			<Option target="Leetcode_2025"/>
+		</Unit>
+		<Unit filename="C:/project/C++/Leetcode_2025/双周赛147/main_03.cpp">
+			<Option target="Leetcode_2025"/>
+		</Unit>
 		<Unit filename="C:/project/C++/Leetcode_2025/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>

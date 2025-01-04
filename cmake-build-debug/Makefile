@@ -272,6 +272,102 @@ main_732.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_732.cpp.s
 .PHONY : main_732.cpp.s
 
+test.obj: test.cpp.obj
+.PHONY : test.obj
+
+# target to build an object file
+test.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/test.cpp.obj
+.PHONY : test.cpp.obj
+
+test.i: test.cpp.i
+.PHONY : test.i
+
+# target to preprocess a source file
+test.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/test.cpp.i
+.PHONY : test.cpp.i
+
+test.s: test.cpp.s
+.PHONY : test.s
+
+# target to generate assembly for a file
+test.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/test.cpp.s
+.PHONY : test.cpp.s
+
+双周赛147/main_01.obj: 双周赛147/main_01.cpp.obj
+.PHONY : 双周赛147/main_01.obj
+
+# target to build an object file
+双周赛147/main_01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_01.cpp.obj
+.PHONY : 双周赛147/main_01.cpp.obj
+
+双周赛147/main_01.i: 双周赛147/main_01.cpp.i
+.PHONY : 双周赛147/main_01.i
+
+# target to preprocess a source file
+双周赛147/main_01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_01.cpp.i
+.PHONY : 双周赛147/main_01.cpp.i
+
+双周赛147/main_01.s: 双周赛147/main_01.cpp.s
+.PHONY : 双周赛147/main_01.s
+
+# target to generate assembly for a file
+双周赛147/main_01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_01.cpp.s
+.PHONY : 双周赛147/main_01.cpp.s
+
+双周赛147/main_02.obj: 双周赛147/main_02.cpp.obj
+.PHONY : 双周赛147/main_02.obj
+
+# target to build an object file
+双周赛147/main_02.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_02.cpp.obj
+.PHONY : 双周赛147/main_02.cpp.obj
+
+双周赛147/main_02.i: 双周赛147/main_02.cpp.i
+.PHONY : 双周赛147/main_02.i
+
+# target to preprocess a source file
+双周赛147/main_02.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_02.cpp.i
+.PHONY : 双周赛147/main_02.cpp.i
+
+双周赛147/main_02.s: 双周赛147/main_02.cpp.s
+.PHONY : 双周赛147/main_02.s
+
+# target to generate assembly for a file
+双周赛147/main_02.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_02.cpp.s
+.PHONY : 双周赛147/main_02.cpp.s
+
+双周赛147/main_03.obj: 双周赛147/main_03.cpp.obj
+.PHONY : 双周赛147/main_03.obj
+
+# target to build an object file
+双周赛147/main_03.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_03.cpp.obj
+.PHONY : 双周赛147/main_03.cpp.obj
+
+双周赛147/main_03.i: 双周赛147/main_03.cpp.i
+.PHONY : 双周赛147/main_03.i
+
+# target to preprocess a source file
+双周赛147/main_03.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_03.cpp.i
+.PHONY : 双周赛147/main_03.cpp.i
+
+双周赛147/main_03.s: 双周赛147/main_03.cpp.s
+.PHONY : 双周赛147/main_03.s
+
+# target to generate assembly for a file
+双周赛147/main_03.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_03.cpp.s
+.PHONY : 双周赛147/main_03.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -299,6 +395,18 @@ help:
 	@echo ... main_732.obj
 	@echo ... main_732.i
 	@echo ... main_732.s
+	@echo ... test.obj
+	@echo ... test.i
+	@echo ... test.s
+	@echo ... 双周赛147/main_01.obj
+	@echo ... 双周赛147/main_01.i
+	@echo ... 双周赛147/main_01.s
+	@echo ... 双周赛147/main_02.obj
+	@echo ... 双周赛147/main_02.i
+	@echo ... 双周赛147/main_02.s
+	@echo ... 双周赛147/main_03.obj
+	@echo ... 双周赛147/main_03.i
+	@echo ... 双周赛147/main_03.s
 .PHONY : help
 
 
