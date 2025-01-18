@@ -29,6 +29,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Leetcode_2025.dir/main_3270.cpp.obj.d"
   "CMakeFiles/Leetcode_2025.dir/main_3280.cpp.obj"
   "CMakeFiles/Leetcode_2025.dir/main_3280.cpp.obj.d"
+  "CMakeFiles/Leetcode_2025.dir/main_3287.cpp.obj"
+  "CMakeFiles/Leetcode_2025.dir/main_3287.cpp.obj.d"
   "CMakeFiles/Leetcode_2025.dir/main_3297.cpp.obj"
   "CMakeFiles/Leetcode_2025.dir/main_3297.cpp.obj.d"
   "CMakeFiles/Leetcode_2025.dir/main_3298.cpp.obj"
