@@ -7,6 +7,8 @@ file(REMOVE_RECURSE
   "CMakeFiles/Leetcode_2025.dir/main_2241.cpp.obj.d"
   "CMakeFiles/Leetcode_2025.dir/main_2264.cpp.obj"
   "CMakeFiles/Leetcode_2025.dir/main_2264.cpp.obj.d"
+  "CMakeFiles/Leetcode_2025.dir/main_2266.cpp.obj"
+  "CMakeFiles/Leetcode_2025.dir/main_2266.cpp.obj.d"
   "CMakeFiles/Leetcode_2025.dir/main_2270.cpp.obj"
   "CMakeFiles/Leetcode_2025.dir/main_2270.cpp.obj.d"
   "CMakeFiles/Leetcode_2025.dir/main_2274.cpp.obj"
