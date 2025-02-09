@@ -754,6 +754,48 @@ CMakeFiles/Leetcode_2025.dir/main_63.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_2025.dir/main_63.cpp.s"
 	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\project\C++\Leetcode_2025\main_63.cpp -o CMakeFiles\Leetcode_2025.dir\main_63.cpp.s
 
+CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj: CMakeFiles/Leetcode_2025.dir/flags.make
+CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj: C:/project/C++/Leetcode_2025/周赛436/main_01.cpp
+CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj: CMakeFiles/Leetcode_2025.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\project\C++\Leetcode_2025\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Building CXX object CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj -MF CMakeFiles\Leetcode_2025.dir\周赛436\main_01.cpp.obj.d -o CMakeFiles\Leetcode_2025.dir\周赛436\main_01.cpp.obj -c C:\project\C++\Leetcode_2025\周赛436\main_01.cpp
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.i"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\project\C++\Leetcode_2025\周赛436\main_01.cpp > CMakeFiles\Leetcode_2025.dir\周赛436\main_01.cpp.i
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.s"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\project\C++\Leetcode_2025\周赛436\main_01.cpp -o CMakeFiles\Leetcode_2025.dir\周赛436\main_01.cpp.s
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj: CMakeFiles/Leetcode_2025.dir/flags.make
+CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj: C:/project/C++/Leetcode_2025/周赛436/main_03.cpp
+CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj: CMakeFiles/Leetcode_2025.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\project\C++\Leetcode_2025\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_51) "Building CXX object CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj -MF CMakeFiles\Leetcode_2025.dir\周赛436\main_03.cpp.obj.d -o CMakeFiles\Leetcode_2025.dir\周赛436\main_03.cpp.obj -c C:\project\C++\Leetcode_2025\周赛436\main_03.cpp
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.i"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\project\C++\Leetcode_2025\周赛436\main_03.cpp > CMakeFiles\Leetcode_2025.dir\周赛436\main_03.cpp.i
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.s"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\project\C++\Leetcode_2025\周赛436\main_03.cpp -o CMakeFiles\Leetcode_2025.dir\周赛436\main_03.cpp.s
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj: CMakeFiles/Leetcode_2025.dir/flags.make
+CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj: C:/project/C++/Leetcode_2025/周赛436/main_02.cpp
+CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj: CMakeFiles/Leetcode_2025.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\project\C++\Leetcode_2025\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_52) "Building CXX object CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj -MF CMakeFiles\Leetcode_2025.dir\周赛436\main_02.cpp.obj.d -o CMakeFiles\Leetcode_2025.dir\周赛436\main_02.cpp.obj -c C:\project\C++\Leetcode_2025\周赛436\main_02.cpp
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.i"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\project\C++\Leetcode_2025\周赛436\main_02.cpp > CMakeFiles\Leetcode_2025.dir\周赛436\main_02.cpp.i
+
+CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.s"
+	C:\software\JETBRA~1\CLION2~1.3\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\project\C++\Leetcode_2025\周赛436\main_02.cpp -o CMakeFiles\Leetcode_2025.dir\周赛436\main_02.cpp.s
+
 # Object files for target Leetcode_2025
 Leetcode_2025_OBJECTS = \
 "CMakeFiles/Leetcode_2025.dir/main_296.cpp.obj" \
@@ -804,7 +846,10 @@ Leetcode_2025_OBJECTS = \
 "CMakeFiles/Leetcode_2025.dir/main_90.cpp.obj" \
 "CMakeFiles/Leetcode_2025.dir/main_47.cpp.obj" \
 "CMakeFiles/Leetcode_2025.dir/main_59.cpp.obj" \
-"CMakeFiles/Leetcode_2025.dir/main_63.cpp.obj"
+"CMakeFiles/Leetcode_2025.dir/main_63.cpp.obj" \
+"CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj" \
+"CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj" \
+"CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj"
 
 # External object files for target Leetcode_2025
 Leetcode_2025_EXTERNAL_OBJECTS =
@@ -858,11 +903,14 @@ Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/main_90.cpp.obj
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/main_47.cpp.obj
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/main_59.cpp.obj
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/main_63.cpp.obj
+Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj
+Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj
+Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/build.make
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/linklibs.rsp
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/objects1.rsp
 Leetcode_2025.exe: CMakeFiles/Leetcode_2025.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\project\C++\Leetcode_2025\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_50) "Linking CXX executable Leetcode_2025.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\project\C++\Leetcode_2025\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_53) "Linking CXX executable Leetcode_2025.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Leetcode_2025.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

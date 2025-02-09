@@ -57,6 +57,9 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/project/C++/Leetcode_2025/周赛431/main_01.cpp" "CMakeFiles/Leetcode_2025.dir/周赛431/main_01.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/周赛431/main_01.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/周赛431/main_02.cpp" "CMakeFiles/Leetcode_2025.dir/周赛431/main_02.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/周赛431/main_02.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/周赛431/main_03.cpp" "CMakeFiles/Leetcode_2025.dir/周赛431/main_03.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/周赛431/main_03.cpp.obj.d"
+  "C:/project/C++/Leetcode_2025/周赛436/main_01.cpp" "CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/周赛436/main_01.cpp.obj.d"
+  "C:/project/C++/Leetcode_2025/周赛436/main_02.cpp" "CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/周赛436/main_02.cpp.obj.d"
+  "C:/project/C++/Leetcode_2025/周赛436/main_03.cpp" "CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/周赛436/main_03.cpp.obj.d"
   )
 
 # Targets to which this target links.
