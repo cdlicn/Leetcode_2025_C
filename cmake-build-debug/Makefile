@@ -1400,6 +1400,54 @@ test.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛147/main_03.cpp.s
 .PHONY : 双周赛147/main_03.cpp.s
 
+双周赛150/main_01.obj: 双周赛150/main_01.cpp.obj
+.PHONY : 双周赛150/main_01.obj
+
+# target to build an object file
+双周赛150/main_01.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛150/main_01.cpp.obj
+.PHONY : 双周赛150/main_01.cpp.obj
+
+双周赛150/main_01.i: 双周赛150/main_01.cpp.i
+.PHONY : 双周赛150/main_01.i
+
+# target to preprocess a source file
+双周赛150/main_01.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛150/main_01.cpp.i
+.PHONY : 双周赛150/main_01.cpp.i
+
+双周赛150/main_01.s: 双周赛150/main_01.cpp.s
+.PHONY : 双周赛150/main_01.s
+
+# target to generate assembly for a file
+双周赛150/main_01.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛150/main_01.cpp.s
+.PHONY : 双周赛150/main_01.cpp.s
+
+双周赛150/main_02.obj: 双周赛150/main_02.cpp.obj
+.PHONY : 双周赛150/main_02.obj
+
+# target to build an object file
+双周赛150/main_02.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛150/main_02.cpp.obj
+.PHONY : 双周赛150/main_02.cpp.obj
+
+双周赛150/main_02.i: 双周赛150/main_02.cpp.i
+.PHONY : 双周赛150/main_02.i
+
+# target to preprocess a source file
+双周赛150/main_02.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛150/main_02.cpp.i
+.PHONY : 双周赛150/main_02.cpp.i
+
+双周赛150/main_02.s: 双周赛150/main_02.cpp.s
+.PHONY : 双周赛150/main_02.s
+
+# target to generate assembly for a file
+双周赛150/main_02.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/双周赛150/main_02.cpp.s
+.PHONY : 双周赛150/main_02.cpp.s
+
 周赛431/main_01.obj: 周赛431/main_01.cpp.obj
 .PHONY : 周赛431/main_01.obj
 
@@ -1712,6 +1760,12 @@ help:
 	@echo ... 双周赛147/main_03.obj
 	@echo ... 双周赛147/main_03.i
 	@echo ... 双周赛147/main_03.s
+	@echo ... 双周赛150/main_01.obj
+	@echo ... 双周赛150/main_01.i
+	@echo ... 双周赛150/main_01.s
+	@echo ... 双周赛150/main_02.obj
+	@echo ... 双周赛150/main_02.i
+	@echo ... 双周赛150/main_02.s
 	@echo ... 周赛431/main_01.obj
 	@echo ... 周赛431/main_01.i
 	@echo ... 周赛431/main_01.s
