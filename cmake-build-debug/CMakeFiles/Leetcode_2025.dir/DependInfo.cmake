@@ -33,6 +33,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/project/C++/Leetcode_2025/main_2274.cpp" "CMakeFiles/Leetcode_2025.dir/main_2274.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2274.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_2275.cpp" "CMakeFiles/Leetcode_2025.dir/main_2275.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2275.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_2412.cpp" "CMakeFiles/Leetcode_2025.dir/main_2412.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2412.cpp.obj.d"
+  "C:/project/C++/Leetcode_2025/main_2502.cpp" "CMakeFiles/Leetcode_2025.dir/main_2502.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2502.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_2506.cpp" "CMakeFiles/Leetcode_2025.dir/main_2506.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2506.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_2595.cpp" "CMakeFiles/Leetcode_2025.dir/main_2595.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2595.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_2920.cpp" "CMakeFiles/Leetcode_2025.dir/main_2920.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_2920.cpp.obj.d"
