@@ -1376,6 +1376,30 @@ main_2711.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_2711.cpp.s
 .PHONY : main_2711.cpp.s
 
+main_2829.obj: main_2829.cpp.obj
+.PHONY : main_2829.obj
+
+# target to build an object file
+main_2829.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_2829.cpp.obj
+.PHONY : main_2829.cpp.obj
+
+main_2829.i: main_2829.cpp.i
+.PHONY : main_2829.i
+
+# target to preprocess a source file
+main_2829.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_2829.cpp.i
+.PHONY : main_2829.cpp.i
+
+main_2829.s: main_2829.cpp.s
+.PHONY : main_2829.s
+
+# target to generate assembly for a file
+main_2829.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Leetcode_2025.dir\build.make CMakeFiles/Leetcode_2025.dir/main_2829.cpp.s
+.PHONY : main_2829.cpp.s
+
 main_2920.obj: main_2920.cpp.obj
 .PHONY : main_2920.obj
 
@@ -2669,6 +2693,9 @@ help:
 	@echo ... main_2711.obj
 	@echo ... main_2711.i
 	@echo ... main_2711.s
+	@echo ... main_2829.obj
+	@echo ... main_2829.i
+	@echo ... main_2829.s
 	@echo ... main_2920.obj
 	@echo ... main_2920.i
 	@echo ... main_2920.s
