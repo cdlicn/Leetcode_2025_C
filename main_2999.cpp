@@ -2,6 +2,7 @@
 
 using namespace std;
 
+// TODO 2999. 统计强大整数的数目
 long long numberOfPowerfulInt(long long start, long long finish, int limit, string s) {
     string low = to_string(start);
     string high = to_string(finish);
@@ -10,7 +11,7 @@ long long numberOfPowerfulInt(long long start, long long finish, int limit, stri
     int diff = n - s.size();
 
     vector<long long> memo(n, -1);
-    auto dfs = [&](this auto &&dfs, int i, bool limit_low, bool limit_high) -> long long {
+    auto dfs = [&](auto &&dfs, int i, bool limit_low, bool limit_high) -> long long {
         if (i == low.size()) {
             return 1;
         }
@@ -27,12 +28,12 @@ long long numberOfPowerfulInt(long long start, long long finish, int limit, stri
         long long res = 0;
         if (i < diff) { // 枚举这个数位填什么
             for (int d = lo; d <= min(hi, limit); d++) {
-                res += dfs(i + 1, limit_low && d == lo, limit_high && d == hi);
+                res += dfs(dfs, i + 1, limit_low && d == lo, limit_high && d == hi);
             }
         } else { // 这个数位只能填 s[i-diff]
             int x = s[i - diff] - '0';
             if (lo <= x && x <= hi) { // 题目保证 x <= limit，无需判断
-                res = dfs(i + 1, limit_low && x == lo, limit_high && x == hi);
+                res = dfs(dfs, i + 1, limit_low && x == lo, limit_high && x == hi);
             }
         }
 
@@ -41,5 +42,5 @@ long long numberOfPowerfulInt(long long start, long long finish, int limit, stri
         }
         return res;
     };
-    return dfs(0, true, true);
+    return dfs(dfs, 0, true, true);
 }
