@@ -10,6 +10,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/project/C++/Leetcode_2025/main_1007.cpp" "CMakeFiles/Leetcode_2025.dir/main_1007.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_1007.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_1123.cpp" "CMakeFiles/Leetcode_2025.dir/main_1123.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_1123.cpp.obj.d"
+  "C:/project/C++/Leetcode_2025/main_1128.cpp" "CMakeFiles/Leetcode_2025.dir/main_1128.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_1128.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_119.cpp" "CMakeFiles/Leetcode_2025.dir/main_119.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_119.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_1206.cpp" "CMakeFiles/Leetcode_2025.dir/main_1206.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_1206.cpp.obj.d"
   "C:/project/C++/Leetcode_2025/main_1278.cpp" "CMakeFiles/Leetcode_2025.dir/main_1278.cpp.obj" "gcc" "CMakeFiles/Leetcode_2025.dir/main_1278.cpp.obj.d"
