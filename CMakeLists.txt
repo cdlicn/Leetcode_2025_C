@@ -12,4 +12,5 @@ add_executable(Leetcode_2025 main_296.cpp main_2160.cpp main_3280.cpp main_729.c
         main_3423.cpp
         main_2661.cpp
         main_2566.cpp
-        main_1432.cpp)
+        main_1432.cpp
+        main_2016.cpp)
