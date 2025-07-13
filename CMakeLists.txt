@@ -41,4 +41,5 @@ add_executable(Leetcode_2025 main_296.cpp main_2160.cpp main_3280.cpp main_729.c
         main_3169.cpp
         main_1900.cpp
         周赛458/main_01.cpp
+        main_2410.cpp
 )
