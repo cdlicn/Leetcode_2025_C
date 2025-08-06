@@ -1,24 +1,7 @@
-# -Leetcode_2025_C
-2025力扣做题记录 C/C++
+#include "bits/stdc++.h"
 
-```c++
-// 快速幂 求余
-const int MOD = 1'000'000'007;
+using namespace std;
 
-long long qpow(long long x, long long n) {
-    long long res = 1;
-    while (n) {
-        if (n & 1) {
-            res = res * x % MOD;
-        }
-        x = x * x % MOD;
-        n >>= 1;
-    }
-return res;
-}
-```
-
-```c++
 class SegmentTree {
     vector<int> mx;
 
@@ -63,4 +46,14 @@ public:
         return i;
     }
 };
-```
+
+int numOfUnplacedFruits(vector<int> &fruits, vector<int> &baskets) {
+    SegmentTree t(baskets);
+    int n = baskets.size(), ans = 0;
+    for (int x: fruits) {
+        if (t.findFirstAndUpdate(1, 0, n - 1, x) < 0) {
+            ans++;
+        }
+    }
+    return ans;
+}
