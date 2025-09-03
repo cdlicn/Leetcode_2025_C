@@ -14,10 +14,6 @@ static bool cmp(vector<int> a, vector<int> b) {
 
 int numberOfPairs(vector<vector<int>> &points) {
     sort(points.begin(), points.end(), cmp);
-    for (const auto &item: points) {
-        cout << item[0] << " " << item[1] << endl;
-    }
-
     int res = 0, n = points.size();
     for (int i = 0; i < n; ++i) {
         int y = points[i][1], max_y = INT_MIN;
